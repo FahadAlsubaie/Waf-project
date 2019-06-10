@@ -116,3 +116,27 @@ color: black;
 .button a:hover {
   text-decoration: none;
 }
+
+
+.title {
+  color: #00D1B2;
+  font-weight: bold;
+
+}
+
+
+.aboutus-main {
+  color: #717171;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.aboutus-sub {
+  color: #98A0AE;
+}
+
+
+.AppsLogo {
+  max-width: 100%;
+
+}
